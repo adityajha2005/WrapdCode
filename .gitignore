@@ -1,0 +1,13 @@
+.claude/settings.local.json
+claude-debug.log
+proxy.log
+proxy.err.log
+
+# Local transcript dumps
+????-??-??-*.txt
+
+# Windows / editor noise
+Thumbs.db
+.DS_Store
+
+node_modules/
