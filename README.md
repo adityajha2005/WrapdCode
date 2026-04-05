@@ -4,6 +4,12 @@
 WrapdCode lets you run the Claude Code terminal app with **any AI model** via [OpenRouter](https://openrouter.ai) — Gemini, GPT, Claude, Llama, Mistral, and 300+ more.
 It keeps the full Claude Code interface and tool workflow, routing all model requests through a local Anthropic-compatible proxy.
 
+## Demo
+
+<video src="assets/wrapdcode.mov" controls muted playsinline width="720"></video>
+
+[Download demo video](assets/wrapdcode.mov) if playback does not work in your viewer.
+
 ## How it works
 
 1. Claude Code is installed on your machine.
