@@ -6,9 +6,9 @@ It keeps the full Claude Code interface and tool workflow, routing all model req
 
 ## Demo
 
-<video src="assets/wrapdcode.mov" controls muted playsinline width="720"></video>
+![WrapdCode demo](assets/wrapdcode.gif)
 
-[Download demo video](assets/wrapdcode.mov) if playback does not work in your viewer.
+Full-quality screen recording: [wrapdcode.mov](assets/wrapdcode.mov).
 
 ## How it works
 
